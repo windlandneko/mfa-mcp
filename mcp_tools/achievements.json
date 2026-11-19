@@ -1,0 +1,118 @@
+{
+  "C1": {
+    "title": "LH匚△",
+    "description": "完成主线章节 1"
+  },
+  "C2": {
+    "title": "L日匚△",
+    "description": "完成主线章节 2"
+  },
+  "C3": {
+    "title": "Ს▢匚△",
+    "description": "完成主线章节 3"
+  },
+  "C4": {
+    "title": "◇◇◇◇匚△",
+    "description": "完成主线章节 4"
+  },
+  "C5": {
+    "title": "▢Y⅄匚△",
+    "description": "完成主线章节 5"
+  },
+  "C6": {
+    "title": "兴匚△",
+    "description": "完成主线章节 6"
+  },
+  "C7": {
+    "title": "_◇_◇_◇匚△",
+    "description": "完成主线章节 7"
+  },
+  "S1": {
+    "title": "⊣日",
+    "description": "完成支线章节 1"
+  },
+  "S2": {
+    "title": "ⵄ▢",
+    "description": "完成支线章节 2"
+  },
+  "S3": {
+    "title": "又匚△",
+    "description": "完成支线章节 3"
+  },
+  "S4": {
+    "title": "Q匚△",
+    "description": "完成支线章节 4"
+  },
+  "S5": {
+    "title": "⅄匚△",
+    "description": "完成支线章节 5"
+  },
+  "S6": {
+    "title": "◇|匚△",
+    "description": "完成支线章节 6"
+  },
+  "S7": {
+    "title": "日匚△",
+    "description": "完成支线章节 7"
+  },
+  "G1": {
+    "title": "T",
+    "description": "赢得小游戏 1"
+  },
+  "G2": {
+    "title": "冖又||",
+    "description": "赢得小游戏 2"
+  },
+  "G3": {
+    "title": "▢+Ს#",
+    "description": "赢得小游戏 3"
+  },
+  "G4": {
+    "title": "◇-",
+    "description": "赢得小游戏 4"
+  },
+  "G5": {
+    "title": "Π",
+    "description": "赢得小游戏 5"
+  },
+  "G6": {
+    "title": "匚Ს兴",
+    "description": "赢得小游戏 6"
+  },
+  "G7": {
+    "title": "匚コ兴",
+    "description": "赢得小游戏 7"
+  },
+  "END": {
+    "title": ">|",
+    "description": "完成尾声"
+  },
+  "ALL": {
+    "title": "日日日日",
+    "description": "完成全部谜题和小游戏"
+  },
+  "W1": {
+    "title": "L△",
+    "description": "注释 7 个字词"
+  },
+  "W2": {
+    "title": "L△L△",
+    "description": "注释 49 个字词"
+  },
+  "W3": {
+    "title": "L△L△L△",
+    "description": "注释 343 个字词"
+  },
+  "W4": {
+    "title": "L△L△L△L△",
+    "description": "注释全部字词"
+  },
+  "QUIT": {
+    "title": "G>",
+    "description": "通过实践学会一个词"
+  },
+  "JOKE": {
+    "title": "三兴",
+    "description": "满足一位外星人的请求"
+  }
+}
